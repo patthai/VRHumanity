@@ -1,2 +1,0 @@
-5.4.3p1:3.0.0.1
-StandaloneWindows
